@@ -1,6 +1,6 @@
 # Publications
 
-## Cheet Sheats
+## Cheat Sheets
 
 - [x] [nlmixr] ()
 - [x] [shinyMixR] ()
