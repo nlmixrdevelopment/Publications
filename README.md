@@ -1,10 +1,5 @@
 # Publications
 
-## Cheat Sheets
-
-- [x] [nlmixr] (https://github.com/nlmixrdevelopment/Publications/blob/master/CheatSheet_nlmixr_10072018.pdf)
-- [x] [shinyMixR] (https://github.com/nlmixrdevelopment/Publications/blob/master/CheatSheet_shinymixr_June%202018.pdf)
-
 ## Conference Posters
 
 - [x] Fidler M, Xiong Y, Schoemaker R, Wilkins J, Trame MN, Post T, Hooijmaijers R, Wang W (2018). Exploring inductive linearization in population pharmacokinetic and pharmacodynamic models. [ACoP9 2018](https://github.com/nlmixrdevelopment/Publications/blob/master/acop9%20poster1-final.pdf)
@@ -18,4 +13,10 @@
 - [x] Schoemaker R, Fidler M, Xiong Y, Wilkins J, Trame MN, Laveille C, Wang W (2017). nlmixr: an open-source package for pharmacometric modelling in R. PAGE 26 (2017) Abstr 7102 [www.page-meeting.org/?abstract=7102](http://www.page-meeting.org/?abstract=7102)
 - [x] Schoemaker R, Fidler M, Xiong Y, Wilkins J, Trame MN, Laveille C, Wang W (2017). nlmixr: an open-source package for pharmacometric modelling in R. ACoP8 (2017) Abstr T-012. [PDF](https://github.com/nlmixrdevelopment/Publications/blob/master/Schoemaker_Comparisons_ACoP8_2017.pdf)
 - [x] Xiong Y, Wang W (2016). Introduction to PmxStan: An R Library to Facilitate PKPD Modeling with Stan. [http://discuss.go-isop.org/t/introduction-to-pmxstan-an-r-library-to-facilitate-pkpd-modeling-with-stan/554]
+
+
+## Cheat Sheets
+
+- [x] [nlmixr] (https://github.com/nlmixrdevelopment/Publications/blob/master/CheatSheet_nlmixr_10072018.pdf)
+- [x] [shinyMixR] (https://github.com/nlmixrdevelopment/Publications/blob/master/CheatSheet_shinymixr_June%202018.pdf)
 
