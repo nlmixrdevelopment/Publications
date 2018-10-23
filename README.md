@@ -7,7 +7,7 @@
 
 ## Conference Posters
 
-- [x] Fidler M, Xiong Y, Schoemaker R, Wilkins J, Trame MN, Post T, Hooijmaijers R, Wang W (2018). Exploring inductive linearization in population pharmacokinetic and pharmacodynamic models. [ACoP9 2018]()
+- [x] Fidler M, Xiong Y, Schoemaker R, Wilkins J, Trame MN, Post T, Hooijmaijers R, Wang W (2018). Exploring inductive linearization in population pharmacokinetic and pharmacodynamic models. [ACoP9 2018](https://github.com/nlmixrdevelopment/Publications/blob/master/acop9%20poster1-final.pdf)
 - [x] Fidler M, Xiong Y, Schoemaker R, Wilkins J, Trame MN, Post T, Hooijmaijers R, Wang W (2018). Solving sensitivity equations by inductive linearization and its applications in population pharmacokinetic and pharmacodynamic models via FOCEi. [ACoP9 2018]()
 - [x] Ngara B, Mulyukov Z, Fidler M, Grosch K, Wang W, Trame MN (2018). nlmixr shinyDashboard Application for Exploration and Visualization of Model Simulations. [NGS Sciences Day 2018](https://github.com/nlmixrdevelopment/Publications/blob/master/NGS2018_Scientific_Poster.pdf)
 - [x] Bartels C, Bieth B, Dumortier T, Baltcheva I, Bhattacharya S, Ludwig I, Demin I, Gassem A, Renard D (2018). ggPMX: a toolbox to easily generate a comprehensive set of model diagnostic plots for population models. PAGE 27 (2018) Abstr 8423 [www.page-meeting.org/?abstract=8423](http://www.page-meeting.org/?abstract=8423)
