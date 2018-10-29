@@ -2,6 +2,7 @@
 
 ## Conference Posters
 
+- [x] Funaki T, Holford N, Fujita S (2018). Populatoin PKPD analysis using nlmixr and NONMEM. [PAGJA 2018]()                             
 - [x] Fidler M, Xiong Y, Schoemaker R, Wilkins J, Trame MN, Post T, Hooijmaijers R, Wang W (2018). Exploring inductive linearization in population pharmacokinetic and pharmacodynamic models. [ACoP9 2018](https://github.com/nlmixrdevelopment/Publications/blob/master/acop9%20poster1-final.pdf)
 - [x] Fidler M, Xiong Y, Schoemaker R, Wilkins J, Trame MN, Post T, Hooijmaijers R, Wang W (2018). Solving sensitivity equations by inductive linearization and its applications in population pharmacokinetic and pharmacodynamic models via FOCEi. [ACoP9 2018](https://github.com/nlmixrdevelopment/Publications/blob/master/acop9%20poster2-final.pdf)
 - [x] Ngara B, Mulyukov Z, Fidler M, Grosch K, Wang W, Trame MN (2018). nlmixr shinyDashboard Application for Exploration and Visualization of Model Simulations. [NGS Sciences Day 2018](https://github.com/nlmixrdevelopment/Publications/blob/master/NGS2018_Scientific_Poster.pdf)
